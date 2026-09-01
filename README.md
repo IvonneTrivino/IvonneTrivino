@@ -1,5 +1,7 @@
 # 💫 A propos de moi :
-🛡️ Administratrice Systèmes & Réseaux<br>🔐 Orientation sécurité : gestion des vulnérabilités (Nessus/Kali, CVE-CVSS), ISO 27001/27002<br>🖥️ Systèmes : Windows Server, Linux (Ubuntu/CentOS/Debian/Ubuntu,VyOS), Active Directory, M365, Intune, SCCM<br>🌐 Réseau : TCP/IP, VLAN, Wi-Fi, pare-feu (pfSense, IPFire), DMZ, VPN<br>☁️ Virtualisation & cloud : VMware, VirtualBox, vCloud Director, Azure AD / Entra ID<br>🛠️ Support N1–N3 (serviceNow) · supervision (Nagios, PRTG) · gestion de projet
+🛡️ Administratrice Systèmes & Réseaux<br>🔐 Orientation sécurité : gestion des vulnérabilités (Nessus/Kali, CVE-CVSS), ISO 27001/27002<br>🖥️ Systèmes : Windows Server, Linux (Ubuntu/CentOS/Debian/Ubuntu,VyOS), Active Directory, M365, Intune, SCCM<br>🌐 Réseau : TCP/IP, VLAN, Wi-Fi, pare-feu (pfSense, IPFire), DMZ, VPN<br>☁️ Virtualisation & cloud : VMware, VirtualBox, vCloud Director, Azure AD / Entra ID<br>
+🛠️ Support N1–N3 (ServiceNow)
+📊Supervision (Nagios, PRTG)
 
 
 ## 🌐 Socials:
